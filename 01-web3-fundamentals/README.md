@@ -1,5 +1,4 @@
 # Module 01 — From Web 1 to Web 3 & Your First Web3 Identity
-*(Beginner Path)*
 
 ## Learning Goals
 
